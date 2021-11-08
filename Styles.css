@@ -1,0 +1,225 @@
+body{    background-image: url(https://www.atlantico.net/media/atlantico/images/2021/02/19/2021021917341275199.jpg);
+    background-attachment: fixed;
+    background-position: center;
+    background-size: cover;
+    position: relative;
+   
+    color: rgb(255, 255, 255);
+    text-align: center;
+    font-family: Calibri;
+    font-size: 20px;
+    height: 100px;
+}
+
+nav > a {
+    color: white;
+    font-weight: 300;
+    text-decoration: none;
+    margin-right: 10px;
+
+    
+}
+nav {
+    text-align: right;
+    padding: 30px;
+}
+header {
+    width: 100%;
+    height: 200px;
+}
+header .titulo {
+    font-size: 85px;
+    font-family: calibri;
+}
+header .subtitulo {
+    font-size: 42px;
+    font-weight: 300;
+    margin-bottom: 32px;
+}
+
+
+h2 {
+    display: block;
+    font-size: 2em;
+    margin-block-start: 0.67em;
+    margin-block-end: 0.67em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    font-weight: bold;
+    padding-top: 50px;
+}
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+}
+section {
+    display: block;
+}
+.contenedor {
+    width: 90%;
+    max-width: 1000px;
+    margin: auto;
+    overflow: hidden;
+    padding: 52px 0;
+}
+.sobre-nosotros {
+    text-align: center;
+    font-size: 56px;
+    margin-bottom: 10px;
+    font-weight: 600;
+}
+h2 {
+    display: block;
+    font-size: 1.5em;
+    margin-block-start: 0.83em;
+    margin-block-end: 0.83em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    font-weight: bold;
+}
+main {
+    display: block;
+}
+
+
+p.santi {
+    padding-top: 25px;
+
+}
+
+.aqua{
+    font-family: calibri;
+    background-color: rgb(151, 100, 41);
+    opacity: 0.8;
+    padding: 0px 0px 10px 200px;
+    border-style: double;
+}
+
+      div {
+        display: block;
+      }
+      .sobre-nosotros {
+        text-align: center;
+        font-size: 56px;
+        margin-bottom: 10px;
+        font-weight: 600;
+      }
+        h2 {
+            display: block;
+            font-size: 1.5em;
+            margin-block-start: 0.83em;
+            margin-block-end: 0.83em;
+            margin-inline-start: 0px;
+            margin-inline-end: 0px;
+            font-weight: bold;
+        }
+        .slogan {
+            font-size: 24px;
+            font-weight: 300;
+            text-align: center;
+            margin-bottom: 24px ;
+        }
+
+        .cards {
+            width: 100%;
+            margin: auto;
+            display: flex;
+            flex-wrap: wrap;
+            justify-content: space-around;
+        }
+        
+        .card {
+            margin: 20px 0;
+            width: 30%;
+            height: 300px;
+            text-align: center;
+            padding: 20px;
+            border: white 0px 0px 4px
+        }        
+        
+        .cards img {
+            width: 140px;
+            height: 140px;
+            object-fit: cover;
+            border-radius: 100%;
+        }
+        h4 {
+            display: block;
+            margin-block-start: 1.33em;
+            margin-block-end: 1.33em;
+            margin-inline-start: 0px;
+            margin-inline-end: 0px;
+            font-weight: bold;
+        }
+        p {
+            display: block;
+            margin-block-start: 1em;
+            margin-block-end: 1em;
+            margin-inline-start: 0px;
+            margin-inline-end: 0px;
+        }
+        
+        .contenedor-footer {
+
+                background-color:#f0f0f0;
+                color:#000;
+                width: 444px;
+                margin:10px 50px;
+                padding:10px;
+                font-size:italic;
+                background-color:gray;
+
+                color:#000;
+
+            flex-direction: column;
+            border: none;
+        }
+        .contenedor-footer {
+            display: flex;
+            width: 90%;
+            justify-content: space-evenly;
+            margin: auto;
+            padding-bottom: 50px;
+            border-bottom: 1px solid black;
+        }
+        .content-foo {
+            margin-bottom: 20px;
+            text-align: center;
+        }
+        p {
+            display: block;
+            margin-block-start: 1em;
+            margin-block-end: 1em;
+            margin-inline-start: 0px;
+            margin-inline-end: 0px;
+        }
+        h4 {
+            display: block;
+            margin-block-start: 1.33em;
+            margin-block-end: 1.33em;
+            margin-inline-start: 0px;
+            margin-inline-end: 0px;
+            font-weight: bold;
+        }
+
+        .content-foo h4 {
+            border: none;
+        }
+        
+        .content-foo p {
+            color: rgb(0, 0, 0);
+            border-bottom: 1px solid black;
+            padding-bottom: 20px;
+        }
+        .titulo-final {
+            text-align: center;
+            font-size: 24px;
+            margin: 20px 0 0 0;
+            color: black;
+        }
+        .titulo-final {
+            font-size: 20px;
+        }
+        
